@@ -45,7 +45,11 @@ h2  {color: Purple;text-align:center;}
 <hr>
 <img src="https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/482775872_454847147623168_3105907555171837715_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeEQbUEiBDILTqbx60uVm_WyL64EnwjN70YvrgSfCM3vRihpQ6DKsJBgwlO8pDgBngAYdvChDbkyKkEmoVI5CPUP&_nc_ohc=QquNCTdbiXwQ7kNvgE5biz0&_nc_oc=Adh2I5mUZsiKdBj9RUu-lGbsRYjcRewGYcvIbt5gVh_xSD6pNebQRlSSWqnaKIDuTzE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl40-2.fna&oh=03_Q7cD1wFL8AmpqfkxOtT8DON8Q9ibG8V1NWoKwOqzFoxwR0v0AQ&oe=67FE6666" alt="Valentines bb" class="center" >
 <br>
-3rdquarterportfolio.neocities.org
+<hr>
+<hr>
+<h2> Reflection </h2>
+  <p> What i learned in ICT for this quarter and the whole year is that,<br> No matter how much you study <br> as long as you dont learn it <br> You will never master coding <br></p>
+</head>
 </head>
 </body>
 </html>
