@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>E-PORTFOLIO </title>
+<body background="https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/483112587_1395191365144043_4192785666157946849_n.png?stp=dst-png_p526x395&_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeEUge334TJfw_H7Z0Z7i4n4x5vZ100RMkzHm9nXTREyTKVhe2I89AGlNQpvnIgUUKrCnuNGhG4P274KxlbF2kxP&_nc_ohc=PnLMYrR2ibYQ7kNvgEZ5NJ5&_nc_oc=AdjeNTOsdsP7QpQTvfdbifi3uyA4dj4_GYZD228H2g2A-lSA5LXZxOxAfO6B11d6oS4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl40-2.fna&oh=03_Q7cD1wGsG2DdEPefqqkgng9KtYc6ZNedCGCMuSxjrLi4nFf2Bw&oe=67FE1AE9" style="background-repeat:1;">
+<style>
+h1   {color:Black;font-family:Serif;text-align:center;}
+p    {color: blue;}
+h2  {color: Purple;text-align:center;}
+</style>
+<h1> 4TH QUARTER PORTFOLIO</h1>
+<hr>
+<a href="https://relia2745.github.io/Reyal-not-fakeh/E-portfolio.html?fbclid=IwY2xjawJDcvpleHRuA2FlbQIxMAABHXGLZjw8U2WYLh8wR559f-EsN9VhFrF18GeQWK537uL45v-KeVovkAaU1Q_aem_bnGwwpqumTpK894_dVp6cA" style="font-size:50px;">1st QTR. Portfolio (Files may not work)</a><br>
+<p style="text-align:center;">Good Day, I'm Rio Gien A. Fultura and I welcome you to my E-Portfolio.<br> I love Choi Seung Hyun <3 </p>
+<img src="https://scontent.fmnl40-2.fna.fbcdn.net/v/t1.15752-9/475372722_634097599565507_5672117299759161275_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeEFkbFAiYwjMkEd15uqpFx52jmqDS4BvHLaOaoNLgG8cu22RLgEbUsXcwX2Dc_b-5Mq87rc5uEXcAo_QYE6X025&_nc_ohc=V6c-fYYFF2gQ7kNvgFDgAmN&_nc_oc=Adgsg62OrV6Zz9IghZDhC1_tcH9CHvzcvhIm4CVtqcBQwE1Css81A-qPwndwk0GfjhQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl40-2.fna&oh=03_Q7cD1wHxoR0Dvn__g6DUrnObIJQ_rFzvOUH3XwQQQh5NUo_JpQ&oe=67FE34B8" alt="me" height="600" width="600">
+<iframe src="https://drive.google.com/file/d/1kUOAZEcCvD8od0cEjcrmUZA8K1phYM2b/preview" width="640" height="480" allow="autoplay"></iframe>
+<hr> 
+<hr>
+<h2>OAP</h2>
+<img src="13.png" alt="" height="600" width="800"> <hr>
+<img src="12.png" alt="musical" height="600" width="800"> <hr>
+<img src="14.png" alt="musical" height="600" width="800"> <hr>
+<img src="15.png" alt="musical" height="600" width="800"> <hr>
+<img src="17.png" alt="musical" height="600" width="800"> <hr>
+<img src="16.png" alt="musical" height="600" width="800"> <hr>
+<hr>
+<hr>
+<h2> **<<>>LESSONS!<<>>** </h2>
+<h2> Lessons: </h2>
+<h2> LESSON 1 </h2>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%201%20ALERT%20BOX.HTML"> <p><b> ALERT BOX<b> </p> </a>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%201%20CONFIRM%20BOX.HTML"> <p><b> CONFIRM BOX<b> </p> </a>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%201%20PROMPT%20BOX.HTML"> <p><b> PROMPT BOX<b> </p> </a>
+<h2> LESSON 2 </h2>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%202%20IF%20ELSE%20STATEMENT.HTML"> <p><b> IF ELSE<b> </p> </a>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%202%20SWITCH%20STATEMENT.HTML"> <p><b> SWITCH<b> </p> </a>
+<h2> LESSON 3 </h2>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%203%20FUNCTION.HTML"> <p><b> FUNTION<b> </p> </a>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%203%20RETURN%20FUNCTION.HTML"> <p><b> RETURN FUNTION<b> </p> </a>
+<h2> LESSON 4 </h2>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%204%20FORLOOP.HTML"> <p><b> FORLOOP<b> </p> </a>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%204%20WHILELOOP.HTML"> <p><b> WHILELOOP<b> </p> </a>
+<a href="https://3rdquarterportfolio.neocities.org/LESSON%204%20DOWHILELOOP.HTML"> <p><b> DOWHILELOOP<b> </p> </a>
+<hr>
+<img src="https://media.tenor.com/u2soLy14DNUAAAAj/don-quixote-limbus-company.gif" alt="TEAM WAHOOO" class="center" >
+<br>
+3rdquarterportfolio.neocities.org
+</head>
+</body>
+</html>
